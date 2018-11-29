@@ -25,8 +25,6 @@ env = gym.make('energyplus-v0')
 See https://github.com/matthiasplappert/keras-rl/tree/master/examples for some
 examples.
 
-
 ## The Environment
 
-An .idf file and .epw file are passed to the gym environment for running the simulation. A result is sent back after it is done. 
-
+An .idf file and .epw file are passed to the gym environment for running the simulation. A result is sent back after it is done.
